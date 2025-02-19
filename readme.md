@@ -1,0 +1,1 @@
+This is the first real project on The Odin Project's Foundations course. It is basically the first "real" website I've created. It contains 4 different pages that contain most all elements I've learned up to this point. It was a great intro to writing my first website.
