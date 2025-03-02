@@ -29,10 +29,7 @@
     margin: 20px auto;
 }
 
-.page{
-    background-color: tan;
-}
-
+.page,
 .recipe-page{
     background-color: beige;
 }
@@ -41,4 +38,19 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
     font-weight: 700;
+    text-align: center;
+    color: brown;
+}
+
+.image{
+    display: block;
+    margin: 30px auto;
+}
+
+.description-box{
+    width: 750px;
+    margin: 15px auto;
+    text-align: center;
+    border: 5px ridge black;
+    padding: 12.5px;
 }
