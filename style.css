@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.recipe-box{
+    text-align: center;
+}
+
+.recipe-name,
+.page-title{
+    font-family: "Times New Roman",Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: brown;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.recipe-link{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:15px;
+}
+
+.page{
+    background-color: tan;
+}
+
+.recipe-page{
+    background-color: beige;
+}
+
+.description-head{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
