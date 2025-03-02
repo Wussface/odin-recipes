@@ -6,6 +6,10 @@
 
 .recipe-box{
     text-align: center;
+    border: 5px ridge black;
+    height:150px;
+    width: 300px;
+    margin: auto;
 }
 
 .recipe-name,
@@ -21,6 +25,8 @@
 .recipe-link{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size:15px;
+    list-style-type: none;
+    margin: 20px auto;
 }
 
 .page{
