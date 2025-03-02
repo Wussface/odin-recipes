@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+ol{
+    list-style-position: inside;
+}
 .recipe-box{
     text-align: center;
     border: 5px ridge black;
@@ -15,7 +18,7 @@
 .recipe-name,
 .page-title{
     font-family: "Times New Roman",Arial, Helvetica, sans-serif;
-    font-size: 30px;
+    font-size: 50px;
     color: brown;
     padding: 5px;
     text-align: center;
@@ -43,7 +46,8 @@
 }
 
 .description-head,
-.ingredients-title{
+.ingredients-title,
+.steps-title{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
     font-weight: 700;
@@ -57,10 +61,19 @@
 }
 
 .description-box,
-.ingredients-box{
+.ingredients-box,
+.steps-box{
     width: 750px;
     margin: 15px auto;
     text-align: center;
     border: 5px ridge black;
     padding: 12.5px;
+}
+
+.steps-box{
+    text-align: left;
+}
+
+.steps-list-item{
+    padding: 5px;
 }
