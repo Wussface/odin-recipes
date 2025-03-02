@@ -29,12 +29,21 @@
     margin: 20px auto;
 }
 
+.ingredients-list{
+    list-style-type: none;
+}
+
+.ingredients-list-item{
+    padding: 3.5px;
+}
+
 .page,
 .recipe-page{
     background-color: beige;
 }
 
-.description-head{
+.description-head,
+.ingredients-title{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
     font-weight: 700;
@@ -47,7 +56,8 @@
     margin: 30px auto;
 }
 
-.description-box{
+.description-box,
+.ingredients-box{
     width: 750px;
     margin: 15px auto;
     text-align: center;
