@@ -77,3 +77,8 @@ ol{
 .steps-list-item{
     padding: 5px;
 }
+
+.home-link{
+    text-align: center;
+    font-size: 25px;
+}
